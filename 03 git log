@@ -1,8 +1,0 @@
-
-NAME
-       git-log - Show commit logs
-
-SYNOPSIS
-       git log [<options>] [<revision-range>] [[--] <path>...]
-
---graph --abbrev-commit --decorate --format 
